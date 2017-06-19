@@ -1,3 +1,5 @@
 #This is a text file created online at github by George Ray
 
 6/19/2017 - Adding text from desktop.
+
+3:16 - Adding more text to first text file.
