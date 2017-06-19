@@ -1,2 +1,4 @@
 #Adding a file from the Desktop to a branch
 This is a text file I created within the repo folder on my desk top.
+
+3:37 - Adding a line of text.
