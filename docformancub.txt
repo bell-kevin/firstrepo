@@ -1,3 +1,0 @@
-#This is an example for Jaycub.
-
-TODO something
