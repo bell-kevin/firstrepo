@@ -1,4 +1,4 @@
-# firstrepo
+# firstRepo
 First Repository for Practice Purposes.
 
 Needed a refresher.
